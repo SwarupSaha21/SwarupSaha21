@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SwarupSaha21
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👀 I’m interested in anything related to Data/AI
+- 🌱 I’m working as a Data Engineer
+- 💞️ I’m looking to collaborate on similar projects
 
 <!---
 SwarupSaha21/SwarupSaha21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
